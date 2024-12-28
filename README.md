@@ -42,7 +42,9 @@
 ![392252907-d8324c93-2c3e-4237-8155-01fa220512e2](https://github.com/user-attachments/assets/5c19544c-152a-428e-aafa-1c5d0ac2d8e7)
 ![392252976-9e437ba5-262d-4e47-a660-872e31210d4a](https://github.com/user-attachments/assets/44a09f13-9b41-4b6f-938f-512d9486cfe0)
 EXPLANATION: Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
+
 Geometry Optimization: Check and optimize the geometry of your CAD model. Ensure that it is watertight, meaning it has no holes or gaps in the mesh. Repair any issues with the geometry using CAD software or dedicated mesh repair tools.
+
 Scaling and Orientation: Adjust the size and orientation of the model as per your requirements. Consider the limitations and capabilities of your 3D printer and choose the appropriate size and orientation for successful printing.
 ![392253064-47b62dc0-8e24-47a1-98ac-faaee2c7c783](https://github.com/user-attachments/assets/bca26ae0-e5ef-4d70-b837-2213469dc870)
 ![392253128-9e87de0c-5332-4320-9950-41b2af8b2218](https://github.com/user-attachments/assets/247ebbd4-e74d-46db-b43f-777fb1cf7b74)
