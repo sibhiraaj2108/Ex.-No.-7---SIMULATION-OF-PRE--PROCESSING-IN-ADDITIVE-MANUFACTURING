@@ -38,15 +38,19 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
+![392252907-d8324c93-2c3e-4237-8155-01fa220512e2](https://github.com/user-attachments/assets/5c19544c-152a-428e-aafa-1c5d0ac2d8e7)
+![392252976-9e437ba5-262d-4e47-a660-872e31210d4a](https://github.com/user-attachments/assets/44a09f13-9b41-4b6f-938f-512d9486cfe0)
+EXPLANATION: Model Design: Begin with creating or obtaining a 3D model using computer-aided design (CAD) software. Design the model according to your specifications and intended use.
+Geometry Optimization: Check and optimize the geometry of your CAD model. Ensure that it is watertight, meaning it has no holes or gaps in the mesh. Repair any issues with the geometry using CAD software or dedicated mesh repair tools.
+Scaling and Orientation: Adjust the size and orientation of the model as per your requirements. Consider the limitations and capabilities of your 3D printer and choose the appropriate size and orientation for successful printing.
+![392253064-47b62dc0-8e24-47a1-98ac-faaee2c7c783](https://github.com/user-attachments/assets/bca26ae0-e5ef-4d70-b837-2213469dc870)
+![392253128-9e87de0c-5332-4320-9950-41b2af8b2218](https://github.com/user-attachments/assets/247ebbd4-e74d-46db-b43f-777fb1cf7b74)
+![392253175-2f6c2644-7f34-46ca-95c5-53924b0c9374](https://github.com/user-attachments/assets/a952fe46-60ec-46cc-9221-012e6a1b403d)
+![392253208-6fc289a8-bd37-4da8-982b-f26f62373d11](https://github.com/user-attachments/assets/994e64dc-780f-4f0f-ac1b-92a59eee94f4)
 
 ### Name:
-### Register Number:
+### Register Number:24010177
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
